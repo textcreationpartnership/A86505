@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Parliament, the Councill of State, the Lord Major, aldermen, and Common Councill of the city of London, and the officers of the Army, in Christ-Church London, Octob. the 6th. A.D. 1659. Being the publick day of Thanksgiving appointed by the Parliament, to be celebrated in the cities of London and Westminster, and parts adjacent, for the suppression of the northern insurrection. By Doctor Nathanael Homes.</title>
+            <author>Homes, Nathanael, 1599-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86505</idno>
+            <idno type="STC">Wing H2577</idno>
+            <idno type="STC">Thomason E1001_1</idno>
+            <idno type="STC">ESTC R207844</idno>
+            <idno type="EEBO-CITATION">99866872</idno>
+            <idno type="PROQUEST">99866872</idno>
+            <idno type="VID">119160</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119160)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1001[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Parliament, the Councill of State, the Lord Major, aldermen, and Common Councill of the city of London, and the officers of the Army, in Christ-Church London, Octob. the 6th. A.D. 1659. Being the publick day of Thanksgiving appointed by the Parliament, to be celebrated in the cities of London and Westminster, and parts adjacent, for the suppression of the northern insurrection. By Doctor Nathanael Homes.</title>
+                  <author>Homes, Nathanael, 1599-1678.</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>ptinted [sic] by J.B. for Edward Brewster at the Crane in Paul's Church yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on verso of title page.</note>
+                  <note>Annotation on Thomason copy: "Oct: 24. 1659.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119160:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the <hi>Parliament,</hi> the <hi>Councill of State,</hi> the <hi>Lord Major, Aldermen,</hi> and <hi>Common Councill</hi> of the City of <hi>London,</hi> and the Officers of the Army, In Chriſt-Church <hi>London, Octob.</hi> the 6<hi rend="sup">th</hi>. <hi>A. D.</hi> 1659.</p>
+            <p>Being the <hi>Publick day of Thanksgiving</hi> appointed by the PARLIAMENT, to be cele<g ref="char:EOLhyphen"/>brated in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and parts adjacent, for the ſuppreſſion of the Northern Inſurrection.</p>
+            <p>By Doctor NATHANAEL HOMES.</p>
+            <p>
+               <hi>London,</hi> Printed By <hi>J. B.</hi> for <hi>Edward Brewſter</hi> at the Crane in <hi>Paul's</hi> Church yard, 1660.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:119160:2" rendition="simple:additions"/>
+            <opener>
+               <date>Friday, <hi>Octob.</hi> 7. 1659.</date>
+            </opener>
+            <p>ORdered, that the thanks of this Houſe be gi<g ref="char:EOLhyphen"/>ven to <hi>Doctor Homes</hi> for his great pains ta<g ref="char:EOLhyphen"/>ken, in preaching and carrying on the duty of publick thanksgiving on Thurſday the 6th of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> inſtant, before the Parlament in Chriſt-Church <hi>London.</hi>
+            </p>
+            <p>And that M. <hi>Blagrave</hi> do give him the thanks. The like Order to M. <hi>Caryl.</hi>
+            </p>
+         </div>
+         <div type="Parliamentary_order">
+            <p>ORdered that the Miniſters be deſired to print, and publiſh their Sermons; and that they have the like priviledge as hath been allowed to others in the like caſe.</p>
+            <closer>
+               <signed>
+                  <hi>Thomas</hi> St <hi>Nicholas Clerk of the Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="author_to_bookseller">
+            <p>I do appoint <hi>Edward Brewſter</hi> Bookſeller, and Citizen of <hi>London,</hi> to print the ſaid Sermon, in wit<g ref="char:EOLhyphen"/>neſs whereof I hereto ſubſcribe my hand, <hi>Oct.</hi> 11. 1659.</p>
+            <closer>
+               <signed>NATH. HOMES.</signed>
+            </closer>
+         </div>
+         <div type="author_to_Parliament">
+            <pb facs="tcp:119160:2"/>
+            <head>To the Parliament of the Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wealth of <hi>England,</hi> and Councill of State.</head>
+            <opener>
+               <salute>My moſt Honoured Maſters,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T had not been poſſible for me, <hi>ſanâ mente</hi> (I ſpeak the truth before the Lord) to have deemed this Sermon worthy of that dignitie, to be printed (much leſs to be preſented to your Honours), but that your deſtres, expreſt in your <hi>Order,</hi> and much otherwiſe (which are a ſufficient Command to me) ſtampt upon it that reſpect. Therefore I have not counterfeitingly paint<g ref="char:EOLhyphen"/>ed the face thereof, fairer then it was: Nor have I cowardly maimed it of anything I then delivered: But just as ye then <hi>liked it,</hi> 'tis now as <hi>like it,</hi> as poſſibly may be ſaid of the <hi>ſame,</hi> in complexion, phyſiognomy, &amp; ſtature.</p>
+            <p>The ſtream is as it firſt flowed tho<g ref="char:EOLhyphen"/>row my mind, then to my mouth, thence to your ears, and now to your eyes. If now in this laſt running, the Spirits of it ſeem not flatt, and weaker to your faſt, but that it ſtill re<g ref="char:EOLhyphen"/>teins
+<pb facs="tcp:119160:3"/>its firſt life, and vigor on your Spirits, to incite your <hi>further praiſes for mercies, and truſting in the God of your mercies,</hi> I ſhall the leſs care for the cenſures of men.</p>
+            <p>And as God was pleaſed ſo <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it, (and ye could not prevent it) that I ſhould be much ſtraitned in time, to prepare for ſo great a work, that all the Glory might be to him the fountain, and helper; ſo I am fully ſatisfied, and do deſire that he may have it, and not I.</p>
+            <p>I ſhall ſay no more (for prolix tediouſ<g ref="char:EOLhyphen"/>neſs in any thing, is irksom to my ſelfe) but what <hi>John Gerſon</hi> the <hi>Schoolman</hi> was wont to ſay, viz. <hi>When the Preacher hath ENDED, the Sermon is not DONE.</hi> For in<g ref="char:EOLhyphen"/>deed it is ſtill in <hi>Doing,</hi> in the hearts, and prastiſe of ſpirituall living hearers; which is the prayer for your <hi>Honours,</hi> of your moſt obliged Servant</p>
+            <closer>
+               <signed>NATHANAEL HOMES.</signed>
+               <dateline>
+                  <hi>From my Study at</hi> Mary<lb/> Staynings London,<lb/>
+                  <date>
+                     <hi>Octob. 11. 1659.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:119160:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſalm. 33.1. Later Clauſe:</hi>
+                  </bibl>
+                  <p>Praiſe is Comely for the upright.</p>
+               </q>
+            </epigraph>
+            <p>
+               <note place="margin">The FOR, pre<g ref="char:EOLhyphen"/>fixed in our En<g ref="char:EOLhyphen"/>gliſh; is not in the Hebrew. Therefore I conſidered the Text no further then as an ab<g ref="char:EOLhyphen"/>ſolute ſentence, on the preſent occaſion.</note> 
+               <seg rend="decorInit">W</seg>E are (ye ſee) at the head of the Pſalm: Therefore no need of an Analyſis, to find the poſture of the Text. It will be ſuffici<g ref="char:EOLhyphen"/>ent to tell you, 'tis part of the <hi>Propoſition</hi> of the Pſalm; in which we have the <hi>Duty, (Comly praiſe)</hi> and the <hi>Doers</hi> (the <hi>upright</hi>). But who (ſay ye) is the <hi>Object, viz.</hi> the <hi>perſon</hi> to bee praiſed? Yee have him named in the former part of the verſe (in which is my Text) <hi>Rejoyce in the</hi> LORD. But where is the <hi>ſubject-matter,</hi> for which wee muſt praiſe? It is in the ſequel of the Pſalm, enumerating many <hi>Mercies,</hi> preſſing the ſaid propoſition. So that the ſence of the Text, and ſentence of the Doctrine, come
+<pb n="2" facs="tcp:119160:4"/>to hand both together, without much a do.</p>
+            <p>
+               <hi>Praiſing God for mercies,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine. </seg>
+               </label> 
+               <hi>is comely for the upright.</hi>
+            </p>
+            <p>In which Doctrine, Four things are to be opened, to make it fit for Uſe.</p>
+            <list>
+               <item>1. <hi>Praiſing, which we have ranck'd in that order as the former may beſt give light to the later.</hi>
+               </item>
+               <item>2. <hi>
+                     <g ref="char:V">Ʋ</g>pright, which we have ranck'd in that order as the former may beſt give light to the later.</hi>
+               </item>
+               <item>3. <hi>Mercies, which we have ranck'd in that order as the former may beſt give light to the later.</hi>
+               </item>
+               <item>4. <hi>Comely, which we have ranck'd in that order as the former may beſt give light to the later.</hi>
+               </item>
+            </list>
+            <p n="1">1. <hi>Praiſing,</hi> we have rendered it in the <hi>Act;</hi> for that's the ſence of the Text. God is <hi>Laus,</hi> the <hi>praiſe of Iſrael. Lauda<g ref="char:EOLhyphen"/>tio</hi> the Act of <hi>praiſing,</hi> that's ours. <hi>Praiſing</hi> is a Cordiall emanation of our affections into words and deeds,<note place="margin">What praiſing of God is?</note> acknowledging God's greatneſs, and goodneſs, in <hi>himſelf,</hi> and <hi>unto us, Pſal.</hi> 135.3, and 5. <hi>Praiſe the Lord for he is good: Sing praiſes to his name, for I know he is great.</hi> And <hi>Pſal.</hi> 119.68. <hi>Thou art good and doſt good</hi> (ſpo<g ref="char:EOLhyphen"/>ken in way of praiſing God). And this praiſe is of the higher form of expreſſi<g ref="char:EOLhyphen"/>ons. For <hi>praedicamus ut res ſunt;</hi> we pre<g ref="char:EOLhyphen"/>dicate, enunciate, or declare as things are.
+<pb n="3" facs="tcp:119160:4"/>
+               <hi>Approbamus quod bonum eſt;</hi> we approve that which is good. <hi>Laudamus quod excel<g ref="char:EOLhyphen"/>lit,</hi> we praiſe that which excells. Suita<g ref="char:EOLhyphen"/>bly, praiſe is moſt due to the moſt excel<g ref="char:EOLhyphen"/>lent God. In Divinity the things <hi>Glorify<g ref="char:EOLhyphen"/>ing</hi> God, <hi>Honouring</hi> God, and <hi>praiſing</hi> God, <hi>Concentre</hi> to the ſame generall iſſue, <hi>viz.</hi> to manifeſt our thankfulneſſe to God: but the words critically conſider<g ref="char:EOLhyphen"/>ed, contein a graduall difference. <hi>Glori<g ref="char:EOLhyphen"/>fying</hi> God is our due <hi>eſtimation</hi> of him, <hi>Pſal.</hi> 24 laſt verſe. <hi>The Lord of Hoſts, he is the King of Glory. Honouring God</hi> is our manifeſtation of that eſteem <hi>in action and behaviour,</hi> Mal. 1.6. <hi>A Son honoureth his Father. If I be a Father, where is mine Ho<g ref="char:EOLhyphen"/>nour? Praiſing God</hi> is our accumulating extollings of God with <hi>Arguments</hi> giving reaſons of our ſaid eſtimation, and acti<g ref="char:EOLhyphen"/>ons <hi>Praedicamus voce, laudamus argumen<g ref="char:EOLhyphen"/>tis.</hi> Thus the Pſalmiſt, <hi>Pſal.</hi> 103, 2 3, 4. &amp;c. <hi>Bleſs the Lord O my ſoul, and forget not all his benefits, who forgiveth all thine iniquities, who healeth all thy diſeaſes, who redeemeth thy lite from deſtruction: who crowneth thee with loving kindneſs, and ten<g ref="char:EOLhyphen"/>der mercy, who ſatisfieth thy mouth with good
+<pb n="4" facs="tcp:119160:5"/>things,</hi> &amp;c. And Pſal. 136. throughout. <hi>O give thanks to the Lord for he is good, for his mercy endureth for ever. O give thanks to the God of Gods, for his mercy endureth for ever. O give thanks to the Lord of Lords for his mercy endureth for ever. To him who alone doth great wonders, for his mercy endureth for ever. To him who ſmote great Kings, for his mercy endureth for ever. and ſl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w famous Kings, for his mercy endureth for ever,</hi> &amp;c. Thus ye ſee, a Praiſe and an Argument, a Praiſe and an Argument. Like <hi>Aarons</hi> Coat when he praiſed God in publick worſhip a<g ref="char:EOLhyphen"/>midſt the great Congregation, <hi>Exod.</hi> 28. 34. <hi>A Golden Bell, and a Pomgranat, A Golden Bell and a Pomgranat upon the hem of his Robe round about;</hi> ſo in this act of praiſe, a ſound of words and a reaſon, a ſound &amp; a reaſon of our praiſing God.</p>
+            <p>Thus you ſee what the firſt thing ex<g ref="char:EOLhyphen"/>plained amounts to. Praiſe <hi>fundamentally</hi> is in the heart; <hi>ſignally</hi> in deed; <hi>formal<g ref="char:EOLhyphen"/>ly</hi> in words; all concurring <hi>(pro re nata)</hi> or no true praiſe, <hi>Affections</hi> lonely (if they could be lonely) were a barren root without flowers. <hi>Flores plantarum Gau<g ref="char:EOLhyphen"/>dia.</hi>
+               <pb n="5" facs="tcp:119160:5"/>* Flowers are the joyes of plants:<note place="margin">Plin. Nat. Miſt. <hi>prata rident.</hi> Hors.</note> ſo words and deeds are the flowers of praiſe, ſpringing from true generous praisfull affections. <hi>Deeds</hi> without affe<g ref="char:EOLhyphen"/>ctions, are rotten hypocriſie; and with<g ref="char:EOLhyphen"/>out words a dumb ſhew. <hi>Words</hi> without affections are but as an Organ-pipe, breath, without an heart: and without actions a lye, and truſting in a lye, <hi>Jer.</hi> 7.4, &amp;c. to 11. <hi>Truſt ye not in lying words, ſaying, The Temple of the Lord, the Temple of the Lord, the Temple of the Lord are theſe,</hi> &amp;c. <hi>Behold ye truſt in lying words that cannot profit. Will ye ſteal, murther, ſwear falſly,</hi> &amp;c. <hi>and come and ſtand before mee in this houſe.</hi> Therefore as the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> had three phraſes of giving of thanks, ſignifing the three degrees there<g ref="char:EOLhyphen"/>of, <hi>viz. Habere gratias,</hi> to be thankfull in affections:<note place="margin">
+                  <hi>Ago</hi> tibi grati<g ref="char:EOLhyphen"/>as <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ientiſſime Imperator, &amp; ſi poſſem etiam reſerrem. <hi>I lin. Paneg. ad Tra<g ref="char:EOLhyphen"/>janum.</hi>
+               </note> 
+               <hi>Agere gratias</hi> to give thanks in words: <hi>Referre gratias,</hi> * to manifeſt thankfullneſſe in deeds: ſo ſpi<g ref="char:EOLhyphen"/>ritually muſt be our praiſe. As we muſt not <hi>ſpeak</hi> a lye, with good words over our bad actions, ſo not <hi>make</hi> a lye with faire profeſſion, contrary to our inward affections. <hi>Revel.</hi> 21.27. <hi>And there ſhall
+<pb n="6" facs="tcp:119160:6"/>inno wiſe enter into praiſing</hi> New Jeruſa<g ref="char:EOLhyphen"/>lem <hi>anything that deſileth or</hi> MAKETH <hi>a lye.</hi> Revel 22.15. <hi>Without are Doggs, Sorcerers,</hi> &amp;c. <hi>and whoſoever loveth and</hi> MAKETH <hi>a lye.</hi>
+            </p>
+            <p n="2">2. <hi>
+                  <g ref="char:V">Ʋ</g>pright:</hi> The <hi>Hebrew</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> The <hi>Right ones,</hi> ſo the <hi>Greek</hi> of the Sep<g ref="char:EOLhyphen"/>tuagint <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And ſo all the Eaſtern lan<g ref="char:EOLhyphen"/>guages in our great Bible. In the former part of the verſe of our Text they are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Righteous.</hi> Right, and Righteous, according to our Engliſh, eſ<g ref="char:EOLhyphen"/>pecially in a thing of this nature, are <hi>Con<g ref="char:EOLhyphen"/>jugata,</hi> words of neer kin. A man ſpiri<g ref="char:EOLhyphen"/>tually <hi>right,</hi> is a righteous man; and a ſpiritually righteous man, is the onely right man. There are three ſorts, or parts of rightneſſe, or righteouſneſſe, to make, and manifeſt a man truly right, or righteous.</p>
+            <p n="1">1 A rightneſſe, or righteouſneſſe of <hi>perſon;</hi> That the whole man ſtands right in Gods opinion, being cloathed with the righteouſneſſe of Chriſt by ſaith; and is called <hi>Imputed Righteouſneſſe Pſal.</hi> 32. <hi>v.</hi> 2. compared with <hi>v.</hi> 11. <hi>Bleſſed is the man to whom the Lord imputeth not ſinne. Ye
+<pb n="7" facs="tcp:119160:6"/>righteous rejoyce in the Lord,</hi> Rom. 4. three laſt ver, <hi>It was not written for</hi> Abrahams <hi>ſake onely that faith was imputed to him for righ<g ref="char:EOLhyphen"/>teouſneſſe, but for us alſo to whom it ſhall be imputed, if we believe on him that raiſed up Jeſus our Lord from the dead, who was de<g ref="char:EOLhyphen"/>livered for our offences, and raiſed againe for our juſtification,</hi> 2 Cor. 5.19.21. <hi>God was in Chriſt reconciling the world to him<g ref="char:EOLhyphen"/>ſelfe, not imputing their treſpaſses to them,</hi> &amp;c. <hi>For he hath made him to be ſinne for us, who knew no ſinne, that we might be made the righteouſneſſe of God.</hi> And ſo Phil. 3.9. it is called the <hi>righteouſneſſe</hi> of <hi>Faith,</hi> the righteouſeſſe of <hi>Chriſt,</hi> the righte<g ref="char:EOLhyphen"/>ouſneſſe of <hi>God.</hi>
+            </p>
+            <p n="2">2. There is a rightneſſe of <hi>heart,</hi> as <hi>Je<g ref="char:EOLhyphen"/>hu</hi> ſaid to <hi>Jehonadab,</hi> (2 <hi>Kings</hi> 10.15.) <hi>Is thy heart right?</hi> A right Queſtion, con<g ref="char:EOLhyphen"/>taining a ſpeciall qualification to make a man right, though <hi>Jehu</hi> were not right. This rightneſſe (or uprightneſſe, as tis oft rendered) is called in the New Teſta<g ref="char:EOLhyphen"/>ment <hi>Syncere. q. d.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> A man is at heart, what he ſeems in actions, or, <hi>Sine cerâ,</hi> as hony refined from the droſsy wax; ſo is a ſyncere man from the fraud
+<pb n="8" facs="tcp:119160:7"/>or connivance of ſinne, which goes along inſeperably with the former imputed righteouſneſſe, <hi>Pſal.</hi> 32.2. <hi>Bleſſed is the man to whom the Lord imputeth not ſinne, in whoſe ſpirit is no guile.</hi> Syncere men are called in <hi>Phil.</hi> 
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.10. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is toazed abroad, (as a lock of wool) and diſcerned, and pict at the Sunbeams. Sin<g ref="char:EOLhyphen"/>cere in the Old Teſtament is called a <hi>per<g ref="char:EOLhyphen"/>fect heart,</hi> a <hi>Kings</hi> 20.3 <hi>Remember, O Lord,</hi> (ſaith Hezekiah) <hi>that I have walked before thee in truth, and with a perfect heart.</hi> Becauſe ſuch a man ſeeks the Lord with his <hi>whole</hi> heart <hi>Pſal.</hi> 119.2. <hi>Bleſſed are they that keep his Teſtimonies, and ſeek him with the whole heart.</hi> And he <hi>loves the Lord (as Chriſt ſaith) with all his heart,</hi> to his utmoſt power; all other things ſubor<g ref="char:EOLhyphen"/>dinatedly to that.</p>
+            <p n="3">3. Rightneſſe or righteouſneſſe of <hi>Con<g ref="char:EOLhyphen"/>verſation,</hi> when a man doth in the tenor, and general courſe of his life deal righte<g ref="char:EOLhyphen"/>ouſly with all, <hi>ſuum cuiq, tribuit, Tit.</hi> 2.11.12. <hi>The grace of God hath appeared teaching us to deny all ungodlineſſe and worldly luſts, and to live ſoberly, RIGH<g ref="char:EOLhyphen"/>TEO<g ref="char:V">Ʋ</g>SLY and Godly in this preſent
+<pb n="9" facs="tcp:119160:7"/>world. He giveth to God</hi> (as our Saviour ſaith) <hi>the things that are Gods, and to Cae<g ref="char:EOLhyphen"/>ſar, the things that are Caeſars;</hi> that is, to every man high or low, according to his capacity, and ability; <hi>viz</hi> to reſcue the oppreſſed, to relieve the diſtreſſed; and to <hi>owe nothing</hi> (Rom. 13.8 <hi>to any man but love.</hi>
+            </p>
+            <p>And thus ye ſee the reſult of the ſe<g ref="char:EOLhyphen"/>cond thing in the Doctrine, <hi>viz.</hi> The <hi>right or righteous man</hi> (who is the only meet man for prayſing God); And that his rightneſs, or unrighteouſneſs is Faith putting on Chriſts righteouſneſſe; Syn<g ref="char:EOLhyphen"/>cerity of holineſs; and righteouſneſſe of converſation. If a man hath not the two later, he hath not the firſt. And if he hath not the firſt, he cannot pray fe God cordi<g ref="char:EOLhyphen"/>ally no more then a thief can pray ſe the Judge, who, he thinks verily, will hang him. Ye will ſay the unbeliever hath ma<g ref="char:EOLhyphen"/>ny mercies for which he may praiſe. We anſwer, his mercies (as wee call them) whil'ſt he is an unbeliever &amp; diſobedient to the truth, are <hi>Curſes, Deut.</hi> 28. through<g ref="char:EOLhyphen"/>out. And the Pſalmiſt mentioneth <hi>Their Tables are made a ſnare to them</hi> Whether
+<pb n="10" facs="tcp:119160:8"/>the unbeliever thinks ſo or no, whiles he is an unbeliever, he makes them ſo, <hi>Tit.</hi> 1.15. <hi>To the unbelieving nothing is pure, but even their mind and conſcience is defiled.</hi> And for want of true grace cannot praiſe truly. So that (as <hi>Solomon</hi> ſaith, <hi>Prov.</hi> 26. <hi>ver.</hi> 7. and <hi>ver.</hi> 9.) <hi>As the leggs of the lame are not equall, and as a thorn goeth up into the hand of a Drunkard; ſo is a parable in the mouth of fools.</hi> That is, Divine things in the mouthes, and management of un<g ref="char:EOLhyphen"/>godly men, are not equally and rightly managed, but with them they do miſchief to themſelves and others.</p>
+            <p>To the third thing in the Doctrine to be opened, <hi>viz. Mercies,</hi> all that we ſhall ſpeak is, briefly to reſolve a caſe of con<g ref="char:EOLhyphen"/>ſcience; and pertinently to the point in hand, <hi>viz.</hi> Seeing afflictions may prove mercies to believers, and ſo to be praiſed for <hi>Pſal.</hi> 119.67. <hi>Before I was afflicted</hi> (ſaith David) <hi>I went aſtray, but now I have kept thy word;</hi> And ver. 71. <hi>It is good for me that I was afflicted, that I might learn thy ſtatutes:</hi> Why do believers pray to prevent, or remove afflictions; and praiſe for deliverance from them?</p>
+            <pb n="11" facs="tcp:119160:8"/>
+            <p> To make way for a diſtinct reſoluti<g ref="char:EOLhyphen"/>on of this caſe, I muſt premiſe ſome pre<g ref="char:EOLhyphen"/>vious propoſitions by way of diſtinction.</p>
+            <p n="1">1. That there are two ſorts of afflicti<g ref="char:EOLhyphen"/>ons; ſome are <hi>killing</hi> afflictions, depri<g ref="char:EOLhyphen"/>ving of naturall life. Others are onely <hi>correcting</hi> afflictions, ſparing naturall life. Of which we muſt note theſe five propo<g ref="char:EOLhyphen"/>ſitions, or diſtinctions.</p>
+            <p n="1">1. That thoſe correcting afflictions are not ſimply good <hi>inſe:</hi> in their own nature, but <hi>conditionally</hi> and <hi>inſtrumentally</hi> to ſuch an end, as, to keep us from evill, or cure us of evill of ſin. As chvrurgery uſing Phlebotomie, ſcarifying, or lancings is not good in it ſelfe, but as it cures the ſick, or diſeaſed patient. And therefore afflictions are ſomtimes called by God himſelf, evills; as <hi>Amos</hi> 3.6. <hi>Shall there be</hi> EVILL <hi>in a City, and the Lord hath not done it?</hi>
+            </p>
+            <p n="2">2. Nor are they conditionally, and in<g ref="char:EOLhyphen"/>ſtrumentally good ſo, <hi>viz.</hi> to ſuch an end (to keep off, or cure of ſin) as <hi>imme<g ref="char:EOLhyphen"/>diate neceſſary</hi> cauſes, or <hi>media,</hi> but <hi>per accidens,</hi> that is <hi>per aliud,</hi> by the help of another, <hi>viz.</hi> by the ſpeciall influence
+<pb n="12" facs="tcp:119160:9"/>of God, in, and upon our correcting affli<g ref="char:EOLhyphen"/>ctions, bleſſing, and ſanctifying them un<g ref="char:EOLhyphen"/>to us. As ſometimes the Chyrurgions Phlebotomizing, ſcarrifying, or lancings, may cauſe ranckling, Gangrenes, or fe<g ref="char:EOLhyphen"/>ſtering, without timely application of his Balſom, <hi>&amp;c.</hi> We ſee good <hi>Jonah</hi> a god<g ref="char:EOLhyphen"/>ly Prophet (in his propheſie) though the better for his <hi>Sea-affliction</hi> in the Whales belly, was the worſe (for a time) for his <hi>Lana-affliction,</hi> when God blaſted his ſhaddowy ſuccouring Gourd.</p>
+            <p n="3">3. God doth oftentimes onely ſhow, and ſhake his rod, to give us warning, which if we take, he lays away his rod, and lays not on the ſtroaks, <hi>Prov.</hi> 22.3. <hi>The prudent ſore-ſeeth the plague and hideth himſelſe, but the ſimple poſſe on, and are puniſhed.</hi> And Hebrews 11. verſe 7. <hi>By Faith Noah being</hi> WAR<g ref="char:EOLhyphen"/>NED <hi>of God of things not ſeen yet, mo<g ref="char:EOLhyphen"/>ved with</hi> FEAR, <hi>prepared an Ark to the ſa<g ref="char:EOLhyphen"/>ving of his houſe.</hi>
+            </p>
+            <p n="4">4. When wee are brought off from our ſins, and nearer to God, the work is done, the uſe of the rod is at an end (in GOD'S uſuall way of
+<pb n="13" facs="tcp:119160:9"/>afflicting) <hi>Iſa.</hi> 27.7, 8, 9. <hi>Hath he ſmit<g ref="char:EOLhyphen"/>ten him</hi> (to wit <hi>Iſrael) as he ſmote thoſe that ſmote him</hi> &amp;c? <hi>In meaſure when it ſhooteth forth, thou wilt debate with it. He ſtayeth his rough wind, and By this therefore the iniquity of</hi> Jacob <hi>ſhall be pur<g ref="char:EOLhyphen"/>ged, and this is all the fruit, to take away his ſinne.</hi> So Jerem. 31.18, 19, 20. <hi>I have ſurely heard</hi> Ephraim <hi>bemoaning himſelfe thus: Thou haſt chaſtiſed me, and I was chaſtiſed,</hi> &amp;c <hi>Surely after I was turned, I repented.</hi> Upon this, ſee there what God ſaith. <hi>Is</hi> Ephraim <hi>my deare Sonne? Is he a pleaſant child? For ſince I ſpake a<g ref="char:EOLhyphen"/>gainſt him I remember him ſtill. Therefore my bowels are troubled for him;</hi> I WILL SURELY HAVE MERCY ON HIM, <hi>ſaith the Lord.</hi> Add Hoſea 5 laſt verſe, <hi>I will go, and return to my place</hi> TILL <hi>they acknowledge their offence, and ſeek my face; in their affliction they will ſeek me early.</hi>
+            </p>
+            <p>Fifthly The afflictions of believers may be an occaſion of great evill in the hearts and hands, lips and licenciouſneſſe of the wicked, who thereupon may try<g ref="char:EOLhyphen"/>umph over, if not trample upon the peo<g ref="char:EOLhyphen"/>ple
+<pb n="14" facs="tcp:119160:10"/>of God, or their religion, and blaſ<g ref="char:EOLhyphen"/>pheam the name of the God of that re<g ref="char:EOLhyphen"/>ligion, and of that people. Of which <hi>Da<g ref="char:EOLhyphen"/>vid</hi> complains oft (<hi>Pſal.</hi> 25.21. <hi>Pſal.</hi> 42.3 <hi>Pſal.</hi> 71.11.) that the wicked cry <hi>where A<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a; is their God? God hath forſaken them,</hi> &amp;c.</p>
+            <p>Now (things thus prepared) take our anſwer to the caſe in theſe poſi<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="1">1 There is no doubt but we may pray againſt <hi>Killing afflictions,</hi> and praiſe for deliverance; becauſe we live to pray and praiſe. This is <hi>Davids</hi> own Argu<g ref="char:EOLhyphen"/>ment, <hi>Pſal.</hi> 6.4, 5. <hi>Return O Lord, deli<g ref="char:EOLhyphen"/>ver my ſoul, O ſave me for thy mercy ſake,</hi> FOR IN DEATH THERE IS NO REMEMBRANCE OF THEE: IN THE GRAVE WHO SHAL GIVE THEE THANKS? So Pſal. 28.1, &amp;c. <hi>To thee I cry, be not ſilent O Lord,</hi> LEST I BECOME LIKE THEM THAT GO DOWN TO THE PIT. So upon ſuch grounds <hi>Hezkiah</hi> prayed, that he might not dy by that his diſeaſe, (which in like<g ref="char:EOLhyphen"/>lihood was the <hi>Peſtilence,</hi> or ſome ſuch Ulcer as appears by the Plaiſter) <hi>Iſa.</hi>
+               <pb n="15" facs="tcp:119160:10"/>38. compare 2 <hi>Kings</hi> 20.1. &amp;c.</p>
+            <p n="2">2. For correcting afflictions that ſpare life, we may lawfully pray unto God to prevent them, or remove them, in theſe four caſes.</p>
+            <list>
+               <item>1 When God warns, and believers take the Alarm, and are warned, they may pray to God to prevent the afflicti<g ref="char:EOLhyphen"/>on, by divine warrant, <hi>Amos</hi> 4.12. <hi>And becauſe this I will do unto thee</hi> PREPARE TO MEET <hi>thy God O</hi> Iſraell. Thus did <hi>Niniveh (Jonah</hi> 3.) commended by our Saviour for ſo doing (<hi>Mat.</hi> 12.41.)</item>
+               <item>2 To pray for prevention of Afflicti<g ref="char:EOLhyphen"/>ons, or removing of them, when they may be occaſion of ſinne to us, is war<g ref="char:EOLhyphen"/>rantable by Scripture, <hi>Prov.</hi> 30.7. <hi>Two things have I required of thee, deny me not afore I dy. Remove far from me vanitie and lies: give me not povertie; leaſt I be poor and ſteal, and take the name of my God in vain.</hi>
+               </item>
+               <item>3 When Correcting afflictions have been ſanctified to us making us better, God having had his end, we may lawful<g ref="char:EOLhyphen"/>ly pray for their removall, by divine ex<g ref="char:EOLhyphen"/>ample, <hi>Pſal.</hi> 119.71. <hi>David</hi> having ac<g ref="char:EOLhyphen"/>knowledged
+<pb n="16" facs="tcp:119160:11"/>and praiſed God that he had been bettered by his afflictions, <hi>that it was good for him that he had been afflict<g ref="char:EOLhyphen"/>ed,</hi> &amp;c. he preſently prays in <hi>verſ.</hi> 76, 77, 78. that God would remove his afflictions.</item>
+               <item>4 When in, and by our afflictions, the wicked are animated againſt us, and our profeſſion; inſulting over us, and it; we may lawfully pray to God on that ac<g ref="char:EOLhyphen"/>compt that God would remove them. Thus did <hi>David, Pſal.</hi> 35.22, 23, 24, 25. <hi>Pſal.</hi> 42.9, 10. <hi>Pſal.</hi> 71.12, 13. And beſide we have a promiſe <hi>Pſal.</hi> 76.10. <hi>Surely the wrath of man ſhall praiſe God; and the remainder of wrath God will reſtrain.</hi> And <hi>Zech.</hi> 1.15. God pro<g ref="char:EOLhyphen"/>feſſeth, <hi>I am ſore diſpleaſed with the Hea<g ref="char:EOLhyphen"/>then that are at eaſe; for I was but a little diſpleaſed, and they helped forward the af<g ref="char:EOLhyphen"/>fliction.</hi> By which two laſt places of Scripture, it appeares we may lawfully pray for what God hath promiſed, and <hi>againſt</hi> that with which God is angry. The Diſciples, and the Church with them likewiſe pray, in oppoſition to the ene<g ref="char:EOLhyphen"/>mies inſultations and perſecutions <hi>Acts</hi>
+                  <pb n="17" facs="tcp:119160:11"/>4.23, &amp;c. to 31. verſe.</item>
+            </list>
+            <p>The cloſe is, that as in thoſe five caſes aforeſaid, believers may lawfully <hi>pray for</hi> prevention, or removall of afflictions; ſo we may warrantably <hi>give praiſe</hi> when they are prevented, or removed. For 'tis a ſure Rule, <hi>What we may lawfully pray to have, we may lawfully praiſe for, when we have it;</hi> and that's our caſe in this days ſolem<g ref="char:EOLhyphen"/>nity. For what we gained in prayer, we now give praiſe; <hi>viz.</hi> Not for the evill that is fallen upon our <hi>Mothers children that were angry with us,</hi>
+               <note place="margin">
+                  <hi>Cant.</hi> 1.6.</note> but for Gods gra<g ref="char:EOLhyphen"/>cious <hi>prevention of their, and our further Evill.</hi> Not for their miſery, but for our delivery. And ſo, bleſſed and praiſed be the Lord, the Net is broken, and we are delivered out of the hands of the hunter and fowler.</p>
+            <p>The fourth and laſt thing of the Do<g ref="char:EOLhyphen"/>ctrine to be explained, and that in a word, is <hi>Comely,</hi> the root <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies to de<g ref="char:EOLhyphen"/>ſire. Thence <hi>Niphal</hi> the paſſive <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (which is our word) ſignifies <hi>Deſirable;</hi> ſo that the ſence of the Text <hi>(ad ver<g ref="char:EOLhyphen"/>bum</hi> is <hi>praiſe is deſirable of the upright.</hi> But becauſe our word in the Hebrew
+<pb n="18" facs="tcp:119160:12"/>fountain ſignifies <hi>deſirable,</hi> therefore the Hebrew Text, by a metalepticall deriva<g ref="char:EOLhyphen"/>tion, transferrs it to expreſs ſundry qua<g ref="char:EOLhyphen"/>lifications that fall under the notion of <hi>de<g ref="char:EOLhyphen"/>ſirable;</hi> as <hi>Fair, Beautifull, convenient, agreeable, congruous, decent, comly, or it becometh.</hi> And therefore as the <hi>Septuagint</hi> renders it in our Text <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is, <hi>it be<g ref="char:EOLhyphen"/>cometh;</hi> So the Eaſtern languages (daugh<g ref="char:EOLhyphen"/>ter Dialects of the Hebrew) <hi>viz.</hi> the <hi>Chalde, Syriack &amp; Arabick</hi> render it in like man<g ref="char:cmbAbbrStroke">̄</g>er <hi>It becometh, viz. the upright to praiſe.</hi> Which is a phraſe of a ſtronger ſignifica<g ref="char:EOLhyphen"/>tion then to leave it to our liberty, <hi>viz.</hi> It imports, it <hi>neceſſarily</hi> becomes us to praiſe: As the like phraſe <hi>Mat.</hi> the 3.15. intimates neceſſarineſs. For when Chriſt there told <hi>John Baptiſt,</hi> he <hi>muſt</hi> be bap<g ref="char:EOLhyphen"/>tized of him, and <hi>John muſt</hi> ſuffer it ſo to be; for ſo both <hi>muſt</hi> fullfill all righte<g ref="char:EOLhyphen"/>ouſneſs, Chriſt uſeth this phraſe in <hi>Syr.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> it becometh, agreeable to our Text as <hi>Matthew</hi> alſo renders it, in Greek, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Suffer it to bee ſo now, for thus it BECOMETH us to fullfill all righteouſneſs.</hi>
+            </p>
+            <p>The reſult of all this fourth particular
+<pb n="19" facs="tcp:119160:12"/>is, that prayſing God for mercies is <hi>deſi<g ref="char:EOLhyphen"/>rably practicable</hi> by the right, or righte<g ref="char:EOLhyphen"/>ous, or upright ones, under all commen<g ref="char:EOLhyphen"/>dable conſiderations. 'Tis a matter ful of motive as we ſhall ſee by and by, when the duty is diſplayed. Thus of the Do<g ref="char:EOLhyphen"/>ctrinall part of the point.</p>
+            <p>
+               <hi>Next of the appli<g ref="char:EOLhyphen"/>catorie, which is uſe<g ref="char:EOLhyphen"/>full for us, chiefly at this time, two ways.</hi>
+               <list>
+                  <item>1. <hi>For reflection on our ſelvs touching fitneſs to praiſe.</hi>
+                  </item>
+                  <item>2. <hi>For excitation to ſtir us up to the fact of praiſe.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1 For <hi>Reflexion</hi> on our ſelves, <label type="milestone">
+                  <seg type="milestoneunit">uſe. </seg>
+               </label> whether we be fit to praiſe. A Queſtion of the maineſt concernment. For if we be not fit for praiſe, we are not fit for Heaven. For in Heaven is perpetuall praiſe by all that come there. Therefore the Queſti<g ref="char:EOLhyphen"/>on is neceſſarily put; and the Text and Doctrine call for a debate. Therefore let us ſpeak to it, <hi>viz.</hi> If any be ſit to praiſe, ſo as to do it comlily, they muſt be right, upright, or righteous, as aforeſaid But (Ah miſerable hypocryticall times) where ſhal we find theſe men? 'Tis true, among us in this Nation deduct the dirty dunghill prophane, all men almoſt are <hi>profeſſors;</hi> and of them more now then
+<pb n="20" facs="tcp:119160:13"/>ever are <hi>Teachers.</hi> Yet I ask where are thoſe right, upright, Righteous ones? Are they not as rare as in <hi>Davids</hi> time? <hi>Pſal.</hi> 12.1, 2. <hi>Help Lord for the Godly man ceaſeth, for the faithfull faile from among the chil<g ref="char:EOLhyphen"/>dren of men. They ſpeak vanitie, every one with his Neighbour: with flattering lips, and with a</hi> DOUBLE HEART <hi>do they ſpeak. They ſpeak</hi> (ſaith the Hebrew Text) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>with an heart, and an heart.</hi> Like St. <hi>James</hi> his <hi>double minded man,</hi> (<hi>Jam.</hi> 1.8.) He is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> A man of two ſouls, or two minds. Or are they not as rare as in <hi>Jeremies</hi> time? <hi>chap.</hi> 5. <hi>verſe</hi> 1 <hi>Run ye to and fro through the ſtreets of Jeruſalem, and ſee now, and know, and ſeek in the broad places thereof, if yee</hi> CAN FIND A MAN, <hi>if there be</hi> ANY <hi>that exe<g ref="char:EOLhyphen"/>cuteth judgment, that ſeeketh the truth.</hi> Both theſe complaints are of, &amp; concerning the onely Church of God, then on earth. But ye will ſay; God forbid it ſhould be ſo now; we hope it's otherwiſe. I ſay ſo too. But yet, that wee may know our ſelves, let mee put a queſtion or two touching each of thoſe Rightneſſes, or Righteouſneſſes afore deſcribed; that
+<pb n="21" facs="tcp:119160:13"/>make a man a right man.</p>
+            <p n="1">1 Touching the <hi>Righteouſneſs of Faith:</hi> I fear the very firſt queſtion will find a great many <hi>Senes elementarios,</hi> old profeſ<g ref="char:EOLhyphen"/>ſors ABCDARIANS in the main practi<g ref="char:EOLhyphen"/>call part of ſalvation Thou thinkeſt thou haſt faith. The firſt Queſtion therefore is, what is the <hi>footing of thy faith?</hi> To this moſt are Mum. I know it, upon many oc<g ref="char:EOLhyphen"/>caſions, many ways of examining mens ſpirituall condition. If any ſay the pro<g ref="char:EOLhyphen"/>miſes of the Goſpell (which is a right anſwer); then the ſecond Queſtion is, <hi>What promiſe haſt?</hi> Here more are at a loſs, to produce a right ſort of promiſes, that muſt do the work, <hi>viz. Faith-breed<g ref="char:EOLhyphen"/>ing</hi> promiſes, for ordinarily they either bring you promiſes which only ſhew <hi>what</hi> will ſave us; as <hi>Hee that believeth ſhall be ſaved.</hi> Or elſe ſuch as tell what God will do for them that do believe; as that <hi>I will never leave thee, nor forſake thee.</hi> But if ſome of them alleadge ſome <hi>faith-breeding</hi> promiſes <hi>inviting, and perſwa<g ref="char:EOLhyphen"/>ding</hi> to believe; as that <hi>Joh.</hi> 3.16, 17. <hi>God ſo loved the world, that he gave his on<g ref="char:EOLhyphen"/>ly begotten ſon, that whoſoever believeth in
+<pb n="22" facs="tcp:119160:14"/>him ſhould not periſh, &amp;c. For God ſent not his ſon to condemn the world, but that the world through him might be ſaved:</hi> or that promiſe <hi>Joh.</hi> 6.37. <hi>Him that cometh to me</hi> (ſaith Chriſt) <hi>I will in no wiſe caſt out:</hi> or that in 2 <hi>Cor.</hi> 5. three laſt, <hi>God was in Chriſt reconciling the world to himſelf, not imputing their treſpaſſes unto them, &amp;c. Now then we are Ambaſſadors for Chriſt, as though God did beſeech you by us; we pray you in Chriſt's ſtead, be ye reconciled to God; for he hath made him to be ſin for us, who knew no ſin, that we might be made the righ<g ref="char:EOLhyphen"/>teouſneſs of God in him.</hi> Or that common one (that I may not exceed my medita<g ref="char:EOLhyphen"/>tions in my delivery) <hi>Mat.</hi> 11.28. <hi>Come to me ye that are heavy laden, and I will eaſe you, &amp;c.</hi> I ſay if any hit ſo right, as to recite ſome ſuch right <hi>faith-breeding pro<g ref="char:EOLhyphen"/>miſe,</hi> Then the third Queſtion is, whether thou haſt ever made uſe of any of theſe, or the like faith-breeding promiſes, to that end, to beget faith in thy ſoul? that is, haſt thou taken them home, and appli<g ref="char:EOLhyphen"/>ed them to thy ſelf as ſpoken to thee, and pleaded them in prayer before the Lord? A main Queſtion indeed. But if ſo, the
+<pb n="23" facs="tcp:119160:14"/>Queſtion then * in the fourth and laſt place is,<note place="margin">I knew a pro<g ref="char:cmbAbbrStroke">̄</g>pt young man of about <hi>18.</hi> years of age (I give you the ſtory in the Margin, be<g ref="char:EOLhyphen"/>cauſe I minded it not in my ſer<g ref="char:EOLhyphen"/>mon) He being well bred, and catechiſed, was once asked at a p<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivate fami<g ref="char:EOLhyphen"/>ly catechiſing, How he thought to be ſaved? hee anſwered by Chriſt. He was asked <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a<g ref="char:EOLhyphen"/>gain, how he ſhould come by Chriſt? he an<g ref="char:EOLhyphen"/>ſwered by ſaith Being asked a<g ref="char:EOLhyphen"/>gain how hee ſhould come to believe, he an<g ref="char:EOLhyphen"/>ſwered, by the promiſe. Being asked again what promiſe he had to ground his faith upon? he anſwered <hi>Come to me all ye that are weary and heavie laden, &amp;c.</hi> All which anſwers he gave as readily as here they are to be read. So he went off creditably as to men, but ſuddenly after his heart ſmote him, that he had never practically made uſe of that pro<g ref="char:EOLhyphen"/>miſe to build bis ſaith upon it, by way of pleading, applying, and relying, though mentally he had had it ready in his memory; and thereupon was caſt into great trouble of mind Apertinent ſtory for this particular; and a profitable monition to brain profeſſors, no<g ref="char:EOLhyphen"/>tionall Chriſtians that know and do not, or not to purpoſe.</note> whether thou haſt done that in<g ref="char:EOLhyphen"/>deed, haſt <hi>actually, really, and effectuallie</hi> ſo applied, pleaded, and relyed upon thy alleadged faith-breeding promiſes what<g ref="char:EOLhyphen"/>ſoever they be, as that thou haſt (as <hi>Gal.</hi> 5.6.) <hi>Faith working by love;</hi> a ſaith (as <hi>Gal.</hi> 6.15.) that <hi>puts thee into Chriſt,</hi> making thee a <hi>New Creature.</hi> There is the <hi>Criſis.</hi> When a man hath ſuch a faith, and by it ſuch a righteouſneſs, as forms him to a <hi>Doing Righteouſneſs,</hi> 1 <hi>Joh.</hi> 3.7. <hi>Lit<g ref="char:EOLhyphen"/>tle children, let no man deceive you, He that</hi> DOTH <hi>righteouſneſs is righteous.</hi> Of real faith, come real effects.</p>
+            <p n="2">2 Touching the rightneſs, or righte<g ref="char:EOLhyphen"/>ouſneſs that ſets a man right in <hi>Sinceritie</hi> the 1 Qu. is, doth thy heart go along with thee in all thy religious performan<g ref="char:EOLhyphen"/>ces? as <hi>Pſal.</hi> 119.10 <hi>with my</hi> WHOLE <hi>heart have I ſought thee.</hi> And <hi>Eccl.</hi> 7.25. I <hi>ap<g ref="char:EOLhyphen"/>plied
+<pb n="24" facs="tcp:119160:15"/>my heart to ſeek Wiſedom.</hi> The <hi>He<g ref="char:EOLhyphen"/>brew</hi> is, as 'tis in your Margin, <hi>I and my heart compaſſed about to know, or underſtand.</hi> Is not thy heart, doth not thy heart, as 'tis deſcribed, <hi>Ezek</hi> 33.31? <hi>viz. And they come to thee, as the people cometh,</hi> (<hi>viz.</hi> for faſhions ſake, or for company) <hi>and they ſit before thee as my people, and they hear thy words, but they</hi> will <hi>not</hi> DO THEM: <hi>For with their mouth they ſhew much love but their heart</hi> GOETH AFTER THEIR COVTEOUSNESS. A dangerous diſeaſe; take heed of that. Or as <hi>Mat.</hi> 15.8. to the ſame effect: <hi>This people draweth nigh to me with their lips, but their hearts are far from me. In vain do they worſhip me, &amp;c.</hi> A ſecond Qu. touching this ſecond right<g ref="char:EOLhyphen"/>neſs: Doſt all thou doſt, <hi>as in the ſight of God?</hi> As <hi>Gen</hi> 17.1. <hi>Walke</hi> BEFORE <hi>me, and be thou perfect. i.e.</hi> in heart, with ſincerity. And <hi>Luk.</hi> 1.6. <hi>Zacharias and Elizabeth were both righteous</hi> BEFORE <hi>God, walking in all the Commandements, and Ordinances of the Lord blameleſs.</hi> So it is ſaid of <hi>Noah</hi> Gen. 6.9. <hi>That he was a Righteous man,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) and perfect (that is ſincere. And how doth that appear?) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>hee
+<pb n="25" facs="tcp:119160:15"/>ſet himſelf continually to walk with God</hi> (that is, as in the ſight of God.) Doſt thou walk thus? Rather is not <hi>God far out of thy ſight,</hi> and thoughts (<hi>Pſal.</hi> 10. 4.5.) Or at moſt, thou mindeſt God but by way of ſuppoſition (thou ſuppo<g ref="char:EOLhyphen"/>ſeſt a God) not with <hi>actuall, uſefull</hi> appre<g ref="char:EOLhyphen"/>henſions. 3. Qu. Doſt all thou doſt for God? As 1 <hi>Cor.</hi> 10.31? Do ye eat for God? <hi>Drink</hi> for God? <hi>Feaſt</hi> for God? (that being united in truth and love, ye may be ſtrength to one another to pro<g ref="char:EOLhyphen"/>mote Gods glory)? <hi>Cloath</hi> for God? <hi>ſleep</hi> for God? <hi>Wake</hi> for God? <hi>Work</hi> for God? <hi>Worſhip</hi> for God? Or are we not? do we not, as <hi>Iſrael? Hoſ.</hi> 10.1. <hi>Iſrael is an emptie <g ref="char:V">Ʋ</g>ine, he bringeth forth fruit to himſelfe,</hi> Leaves and Labruſcas: ſuch fruit as wil ſhelter and adorn himſelf, but of little or no uſe, to God, or good men, or the common good. Or like thoſe <hi>Hoſe.</hi> 7.14. that <hi>howled</hi> (ſee how God compares them to hounds, yelping for carion) in their devotions <hi>for Corn and Wine, and Oile,</hi> but <hi>not for obedience.</hi> Or as <hi>Zech.</hi> 7.5. <hi>When ye faſted and mourn<g ref="char:EOLhyphen"/>ed in the fifth month, and the ſeventh month,
+<pb n="26" facs="tcp:119160:16"/>even thoſe</hi> 70. <hi>years did ye at all fast to me, even to me?</hi>
+            </p>
+            <p>Touching the third righteouſneſs, <hi>viz.</hi> of <hi>Converſation,</hi> for brevities ſake, only two Queſtions. 1 <hi>Qu.</hi> is a plain one. Is thy righteous converſation as to the <hi>Tenor</hi> of thy <hi>Care, Conſcience, and Conteſt</hi> (a<g ref="char:EOLhyphen"/>gainſt unrighteouſneſs) <hi>univerſal,</hi> Like <hi>David, Pſal.</hi> 119.6? <hi>viz. I will have reſpect to all thy Commandements.</hi> Thou wilt <hi>Conſcionablie reſpect,</hi> though thou canſt not <hi>abſolutelie effect</hi> all the Com<g ref="char:EOLhyphen"/>mandements in all degrees. Though thou doſt ſometimes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Stumble with a ſlip,</hi> yet thou doſt not (1 <hi>Joh.</hi> 3.9.) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Work at the trade of tranſ<g ref="char:EOLhyphen"/>greſſing.</hi> Thou art none of the <hi>Pognale aven</hi> (as the Hebrew phraſe is, <hi>Pſal.</hi> 6. <hi>ver.</hi> 8.) Of the <hi>Workers of iniquitie,</hi> ſuta<g ref="char:EOLhyphen"/>ble to St. <hi>Johns Greek</hi> phraſe in that but now quoted. Self-allowance in the breach of any one of Gods Commande<g ref="char:EOLhyphen"/>ments is a breach of all, a guilt of all. <hi>Jam.</hi> 2.10. Gods Commandements being united like the links in a chain, or the ſtones of an arch; if one broken, the whole is bro<g ref="char:EOLhyphen"/>ken. Or what one ſin can a man allow himſelfe in, but it will intrench on moſt
+<pb n="27" facs="tcp:119160:16"/>of the Commandements, if not all? 2. <hi>Qu.</hi> Doſt thou, as often as thou doſt fail or falter in thy converſation, <hi>Write retracta<g ref="char:EOLhyphen"/>tions</hi> with prayers and tears? Doſt <hi>retreat</hi> with penitentiall ſorrows, <hi>viz.</hi> as 2 <hi>Cor.</hi> 7.1<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>With carefulneſs, indignation, fear, vehement deſire, zeal, revenge againſt thy ſin?</hi> Do afflictions ly light, and ſin lyes heavy as on <hi>Davids</hi> heart, expreſs in his 7 penitentiall Pſamles,<note place="margin">The <hi>7</hi> peniti Pſalms are Pſal. <hi>6</hi> Pſa. <hi>3</hi> Pſa. <hi>38,</hi> Pſa. <hi>5</hi> Pſ. <hi>102.</hi> Pſ. <hi>13</hi> Pſ. <hi>143.</hi>
+               </note> where (though a moſt valiant ſtout hearted man to en<g ref="char:EOLhyphen"/>counter dangers) he is caſt down in the apprehenſion of his ſin, as at no time, no condition elſe, the like. And <hi>Paul</hi> that can <hi>glorie in tribulations, Rom.</hi> 5.3. and <hi>throws down the Gantlet to</hi> challenge a combate with all difficulties, <hi>Rom.</hi> 8.32. to end of <hi>chap;</hi> Yet let but poor creeping concupiſcence p<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ep upon him, to hinder him in the good he would <hi>&amp;c.</hi> and he cryes out, <hi>O wretched man that I am, &amp;c. Rom</hi> 7. 21.22, 23, 24.</p>
+            <p>To cloſe this uſe: 'Tis moſt certain that unleſs a man be ſuch a right man, upright man, a righteous man as aforeſaid, he cannot be a reall thankfull, God-praiſ<g ref="char:EOLhyphen"/>ing man, what ever he may jabber with his lipps. He cannot truly praiſe God
+<pb n="28" facs="tcp:119160:17"/>without ſome true ſpirituall <hi>love and joy</hi> in God; and theſe he hath not, unleſſe he attain a grounded comfortable per<g ref="char:EOLhyphen"/>ſwaſion of the love of God in Chriſt par<g ref="char:EOLhyphen"/>doning his ſinns, with the ſincere effects, manifeſting the ſame (afore mentioned) <hi>Luk.</hi> 7.47. <hi>I ſay unto thee, her ſinus which are many, are forgiven</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>in that (it ap<g ref="char:EOLhyphen"/>pears) ſhe loved much: but to whom little is forgiven, the ſame loveth little.</hi> And thus of the firſt Uſe, <hi>Reflexion, &amp;c.</hi>
+            </p>
+            <p n="2">2 Of <hi>Incitation</hi> to the <hi>Fact of praiſe,</hi> to which two things (couchant in the Do<g ref="char:EOLhyphen"/>ctrine) do engage us, namely,
+<list>
+                  <item>1 The <hi>Comlineſſe</hi> of the duty of praiſe.</item>
+                  <item>2. The conſideration of the <hi>Mercies</hi> prepared for our praiſe.</item>
+               </list>
+            </p>
+            <p n="1">1 The <hi>Comlineſs.</hi> It is comely, or it be<g ref="char:EOLhyphen"/>cometh us (if we be <hi>upright, &amp;c.</hi> as we pretend to be) to praiſe. Is it not come<g ref="char:EOLhyphen"/>ly, doth it not become us, that it appear <hi>We have truth of grace?</hi> It is more credit to wear a ſmall Diamond, then a large Chryſtal, or Briſtol. As <hi>Prayer</hi> tryes the lawfullneſs of our <hi>Actions</hi> (a man cannot with any face, ask God to aſſiſt him in ſinning): <hi>So praiſing</hi> God, tryes our
+<pb n="29" facs="tcp:119160:17"/>
+               <hi>graces,</hi> 2 <hi>Tim.</hi> 3.2. <hi>
+                  <g ref="char:V">Ʋ</g>nthankfull, unholy, (in gratum dixeris, &amp; omnia dixeris)</hi> there<g ref="char:EOLhyphen"/>fore <hi>vice verſâ,</hi> on the contrary, <hi>The more thankfull, the more holy,</hi> and <hi>the more ho<g ref="char:EOLhyphen"/>ly, the more thankfull.</hi> For prayer may have much (if not all) of ſelfe: but praiſe cannot but have much of God in it; for which cauſe (in part) <hi>David,</hi> is ſuppoſed, to be called <hi>A man after Gods own heart.</hi>
+            </p>
+            <p n="2">2 Is it not comly? doth it not become us, <hi>to come to our ſelves,</hi> when we have been dull ſpirited, dead hearted, and our ſouls have layn bedd-ridden, ſpiritually? Prayſe in theſe Caſes hath been the <hi>Cure-all-evill.</hi> See the Pſalmiſt often in his Pſalmes; that when he hath been in a deep dolefull dump, as ſoon as he could get up his ſoul upon the leggs of praiſe, how high, and heavenly is his heart, <hi>Pſal.</hi> 73. in the former part of the Pſalm, to the end of the 22 verſe, in what a low deplorable condition (ſpiritually) is hee <hi>ver.</hi> 2.3. <hi>My feet were almoſt gon, my ſteps had well nigh ſlipt, for I was envious at the fooliſh, when I ſaw the proſperitie of the wicked, ver.</hi> 12. 13. <hi>Behold theſe are the
+<pb n="30" facs="tcp:119160:18"/>ungodly, who proſper in the world, they in<g ref="char:EOLhyphen"/>creaſe in riches, Verily I have cleanſed my heart in vain, and waſhed my hands in in<g ref="char:EOLhyphen"/>nocencie,</hi> (a moſt dreadfull ſpeech for a Saint, not onely for <hi>matter,</hi> but <hi>mode,</hi> to ſeal it with a <hi>verilie</hi>) <hi>ver.</hi> 22. <hi>So fooliſh was I, and ignorant, I was as a Beaſt before thee.</hi> But now mark the <hi>Calaſtrophe</hi> from the 23. <hi>ver.</hi> to the end of the <hi>Pſalm,</hi> as ſoon as he can turn, and tune his notes to praiſe, how high is he, ſaying; <hi>Neverthe<g ref="char:EOLhyphen"/>leſs I am continually with thee; thou haſt holden me by my right hand. Thou ſhalt guide me with thy counſell, and afterward receive me to glory. Whom have in Heaven but thee; and none on earth that I deſire be<g ref="char:EOLhyphen"/>ſides thee. My fleſh and my heart faileth; but God is the ſtrength of my heart, and my portion for ever, &amp;c.</hi> So <hi>Pſal.</hi> 77. In the firſt eleven verſes the Pſalmiſt is in a deep dejected condition, <hi>ver.</hi> 2. <hi>In the day of my trouble I ſought the Lord; my ſore ran in the night, and ceaſed not: My ſoul refu<g ref="char:EOLhyphen"/>ſed to be comforted</hi> a ſad expreſſion). <hi>I remembred God, and was troubled</hi> a ſadder expreſſion); <hi>I complained and my ſpirit was overwhelmed</hi> On which the Pſalmiſt
+<pb n="31" facs="tcp:119160:18"/>himſelfe puts a note of Emphaſis, <hi>viz. Se<g ref="char:EOLhyphen"/>lah.</hi> He goes on. <hi>Thou holdeſt mine eyes waking, ſo that I cannot ſpeak &amp;c.</hi> Again, <hi>Will the Lord caſt off for ever? And will he be favourable no more? Is his mercie clean gon for ever? Doth his promiſe faile for evermore? Hath God forgotten to bee gracious? Hath he in in anger ſhut up his tender mercies?</hi> On which alſo he ſet his eminent mark <hi>Selah.</hi> Now mark the turn of the tyde. As ſoon as he can give this Torrent a check <hi>ver.</hi> 10. ſaying, I ſayd this is mine infirmitie; And in the ſame verſe, and verſe 11 12. ſet himſelf to meditate mercies and verſe 13. &amp;c. falls to praiſing, O how ſublime are the gracious workings of his heart, <hi>viz. who is ſo great a God as our God? Thou art the God that doſt wonders: Thou haſt declared thy strength among the people. Thou haſt with thine arm redeemed thy people, &amp;c.</hi> (ſuta<g ref="char:EOLhyphen"/>ble to our buſineſs this day) Once more to this ſee one Pſalm more, <hi>viz. Pſa.</hi> 116. In <hi>ver.</hi> 11. The Pſalmiſts heart is ſadly out of tune ſaying. <hi>I ſaid in my hast all men are Lyars</hi> (he excepts not the Pro<g ref="char:EOLhyphen"/>phets. compare, 1 <hi>Sam.</hi> 27.1.) But as
+<pb n="32" facs="tcp:119160:19"/>ſoon as this land-flood of paſſion is over, that the Land of mercies appears, how e<g ref="char:EOLhyphen"/>levated are his affections heaven-ward, as he expreſſeth himſelfe in the very next verſe, <hi>viz.</hi> 12.? <hi>What ſhall I render to the Lord for all his benefits towards me?</hi> Hee cannot think what may be great enough and good enough. Now he is <hi>ver,</hi> 13, 14. fit to pray, <hi>to call on the name of the Lord; and forward to pay his vowes, &amp;c.</hi> With all theſe, take a late experiment of the <hi>Heart-reviving power</hi> of prayſing, confeſ<g ref="char:EOLhyphen"/>ſed by a worthy pious Miniſter (Mr. <hi>Greenham</hi> I think, for I had not time to turn Books) <q>I endeavoured (ſaith he) to ſet my ſelfe to ſtudy, I could not ſtu<g ref="char:EOLhyphen"/>dy. Then I endeavoured to <hi>meditate,</hi> to ſet my heart in tune, but I could not meditate Then I would have prayd, but I could not pray. At laſt I fell to conſidering Gods mercies, and to prayſe him, and then my heart came to himſelf, and I was in a ſweet temper.</q> And truly other experienced Chriſtians (and I hope ſuch are ſome at leaſt of you) do find the experience of this heart reviving exerciſe of prayſe.</p>
+            <p n="3">
+               <pb n="33" facs="tcp:119160:19"/> 3. Is it not comly, doth it not become us to have many beautiful returns of hea<g ref="char:EOLhyphen"/>ven; much manifeſtation of Gods pre<g ref="char:EOLhyphen"/>ſence with us? Praiſe is not onely a <hi>Gi<g ref="char:EOLhyphen"/>ver,</hi> but a <hi>Getter.</hi> See <hi>Jehoſhaphat's</hi> pray<g ref="char:EOLhyphen"/>ſing God, 2 <hi>Chron.</hi> 20.22. <hi>And when they began to ſing, and to praiſe, the</hi> LORD <hi>ſet ambuſhments againſt the children of Ammon, Moab, and Mount Seir, which came againſt Judah, and they were ſmitten.</hi> So alſo <hi>Paul and Silas</hi> praying, and ſinging PRAYSES unto God, <hi>Acts</hi> 16. <hi>Suddainly there was a great Earth quake, ſo that the foundations of the priſon were ſhaken; and immediately all the doors were opened, and every ones bands were looſed, &amp;c.</hi> Praiſe is like a pump, which in pouring out water draws more water. Or like the ſtrings of an in<g ref="char:EOLhyphen"/>ſtrument, which being ſtrucken with the hand, do verberate the ayre in its firſt ſound, and are reverberated by the ayre to an after-ſound. Praiſes to the hollow and holy heavens, never faile of a ſweet Eccho to the heart, from Heaven. For <hi>Praiſes</hi> as well as <hi>Prayers</hi> put out <hi>Careful<g ref="char:EOLhyphen"/>neſs</hi> from the heart, and put into the heart, <hi>The peace of God paſſing all under<g ref="char:EOLhyphen"/>ſtanding
+<pb n="34" facs="tcp:119160:20"/>which will keep,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Keep as in a Garriſon,</hi> there's the excellent Garri<g ref="char:EOLhyphen"/>ſon) <hi>your hearts and minds through Chriſt Jeſus,</hi> Phil. 4.6, 7.</p>
+            <p n="4">4. And laſtly, is it not Comly, doth it not become us to be of a cheerfull, joy<g ref="char:EOLhyphen"/>full ſpirit in the Lord, like our God? To be like Heaven, like Angells, in Comple<g ref="char:EOLhyphen"/>xion, language and buſineſs? Surely 'tis commanded that we <hi>rejoyce in the Lord always</hi> (<hi>Phil.</hi> 4.4.) <hi>and again</hi> (in the ſame verſe) the Holy Ghoſt commands it ſaying, <hi>again I ſay rejoice, viz.</hi> to credit Gods goodneſs to us. And praiſe is the pleaſant work of <hi>joy,</hi> in the former part of the verſe of my Text, uſhering it in thus, REJOYCE <hi>in the Lord O ye righteous,</hi> PRAYSE <hi>is comely for the upright;</hi> joy be<g ref="char:EOLhyphen"/>ing of the definition of Heaven, <hi>Pſal.</hi> 16. laſt <hi>In thy preſence is fulneſs of joy; at thy right hand are pleaſure for evermore.</hi> There are prayſes and Alleluja's or <hi>Halelujah's,</hi> the language of Angells, <hi>Iſai.</hi> 6.3. <hi>The Seraphims cryed ſaying, Holy, Holy, Holy is the Lord of Hoſts, &amp;c.</hi> And <hi>Luk.</hi> 2.13 <hi>There was with the Angell a multi<g ref="char:EOLhyphen"/>tude of the heavenly hoſt praiſing God, and
+<pb n="35" facs="tcp:119160:20"/>ſaying, Glory to God in the higheſt, &amp;c.</hi> And the Churches buſineſs, as repreſent<g ref="char:EOLhyphen"/>ed in Heaven, are Allelujaes, <hi>Rev.</hi> 1, 3, 4, 5. <hi>I heard a voyce of much people in</hi> HEA<g ref="char:EOLhyphen"/>VEN, <hi>ſaying; Alleluja, &amp;c. And again they ſaid Alleluja. And the</hi> 24 <hi>Elders, and the</hi> 4 <hi>Animals worſhipped God, ſaying, Amen, Alleluja. And a voice came out of the Throne ſaying, praiſe God.</hi> No creature of the earth ſo heaven like, and heart exhi<g ref="char:EOLhyphen"/>lerating as Muſick; and therefore uſed in Scripture, both in the Old Teſtament and in the New, to typifie the <hi>heavenly joy in the Holy Ghoſt,</hi> and the <hi>joies of Hea<g ref="char:EOLhyphen"/>ven.</hi> * In praiſe we teſtifie,<note place="margin">So in the Pſalms oft; and in the Revela<g ref="char:EOLhyphen"/>tion oft. Pſal. 57.8. Pſal. 108.2. And at leaſt ten times more. And Rev. 5.8. Rev. 14.2. Rev. 15.2.</note> wee <hi>feel</hi> the firſt in our affections; and <hi>ſee</hi> the other in our faith and hope. And thus we have brought comlyneſſe to the higheſt hight, and ſo put a period to our ſpeech of that.</p>
+            <p n="2">2. Our <hi>mercies</hi> call for our praiſe. And here I muſt rather <hi>Epitomize,</hi> then <hi>Anato<g ref="char:EOLhyphen"/>mize</hi> (to diſſect and read a lecture upon every part). I could mind you of that of the Pſalmiſt, <hi>Pſal.</hi> 25.10. ALL <hi>the paths of the Lord are mercie and truth, unto ſuch as keep his Covenant, &amp; his Teſtimonies.</hi> And upon this ALL, I might enlarge to every
+<pb n="36" facs="tcp:119160:21"/>finger toe, and nail on them, as our Savi<g ref="char:EOLhyphen"/>our ſaith (<hi>Mat.</hi> 10.30.) <hi>The very hairs of your head are all numhred.</hi> I might alſo mind you of devout <hi>Auſtins</hi> platform of praiſe,<note place="margin">Quid eſt totâ die, id eſt, ſine in<g ref="char:EOLhyphen"/>termiſſione lau<g ref="char:EOLhyphen"/>dare? In proſpe ris, quia conſo<g ref="char:EOLhyphen"/>lâris: in adver<g ref="char:EOLhyphen"/>ſis, quia cocrigis antequa<g ref="char:cmbAbbrStroke">̄</g> eſſem, quia ſecisti me: Cum eſſem, quia: ſalutem dediſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>i Cum peccaſſem, quia ignoviſii: Cum converſus eſſem, quia ad<g ref="char:EOLhyphen"/>juviſti, Cum perſeveraſſem, quia Coronaſti. <hi>Aug. ſuper il<g ref="char:EOLhyphen"/>lud Pſal. Totâ die repleatur os meum lau<g ref="char:EOLhyphen"/>de.</hi>
+               </note> 
+               <hi>viz.</hi> 
+               <q>To praiſe God in <hi>proſperitie,</hi> becauſe he comforts: in <hi>Adverſitie,</hi> becauſe hee corrects: For that <hi>before we were,</hi> becauſe he made us: <hi>For that when we were,</hi> be<g ref="char:EOLhyphen"/>cauſe he hath given us ſalvation: For <hi>what when we had ſinned,</hi> becauſe he par<g ref="char:EOLhyphen"/>doned: For <hi>what when we were convert<g ref="char:EOLhyphen"/>ed,</hi> becauſe he helped: For <hi>that when we have perſeverd he Crowneth us.</hi>
+               </q> I might alſo run over the mercies mentioned in this Pſalm, wherein is my Text, argu<g ref="char:EOLhyphen"/>mentatively preſſing the performance of it. But, for compendiouſneſs, it ſhall ſuf<g ref="char:EOLhyphen"/>fice to touch on ſome of them by and by, which Concentre with this days comme<g ref="char:EOLhyphen"/>moration. Where I ſhall not delight to digg into the wounds of others miſeries, but duly ſet forth the dignity of our own deliverance.</p>
+            <p n="1">1 'Tis a <hi>matter of praiſe</hi> (worthy Sena<g ref="char:EOLhyphen"/>tors, and Chriſtians) that <hi>this day we may praiſe, viz.</hi> That we <hi>live</hi> to praiſe; have <hi>leave</hi> to praiſe; do <hi>meet</hi> to praiſe; <hi>have
+<pb n="37" facs="tcp:119160:21"/>a mind</hi> to praiſe; have <hi>means</hi> to praiſe; eſpecially in this <hi>mode</hi> and majeſtie of ſo<g ref="char:EOLhyphen"/>lemnitie * as in a day of a princely mar<g ref="char:EOLhyphen"/>riage. <hi>The place,</hi>
+               <note place="margin">Conſedere Du<g ref="char:EOLhyphen"/>ces, &amp; vulg: ſtante Corond.</note> 
+               <hi>the face of this Congrega<g ref="char:EOLhyphen"/>tion</hi> ſeem to mee to have written upon them <hi>
+                  <g ref="char:V">Ʋ</g>nion, <g ref="char:V">Ʋ</g>nion <g ref="char:V">Ʋ</g>nion;</hi> Union of hearts, of <hi>Parliament, City, and Armie:</hi> which <hi>
+                  <g ref="char:V">Ʋ</g>nion is the foundation of marriage.</hi> The <hi>Sermon</hi> mainly deſigned to eſpouſe you all to the Lo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, in true joy, praiſe, and thankfulneſs; and in that <hi>Tertio,</hi> to one another <hi>And this union is greater</hi> then that of marriage. For they that are joined <hi>to the Lord,</hi> (1 <hi>Cor.</hi> 6.17.) are ONE SPIRIT. The <hi>praiſes</hi> now dictated, or ſung by us are the <hi>Epithalamia i. e</hi> the <hi>Spirituall</hi> marriage-ſongs (ſo wee mean, that mind our buſineſs, to ſing and give praiſe for the uniting mercies of this day) Your Prince-like <hi>Feaſt</hi> (interpreted ex<g ref="char:EOLhyphen"/>preſly by that common vote of good people) is your interview for union and therefore juſtly called a marriage Feaſt. And here is your Miniſter to pray hearty for you, that God would for ever unite you in the <hi>truth,</hi> and <hi>love,</hi> and <hi>love of the truth.</hi> And upon that, ſolemnly and ſe<g ref="char:EOLhyphen"/>riouſly
+<pb n="38" facs="tcp:119160:22"/>to pronounce thoſe whom God hath joined together, let no man put a<g ref="char:EOLhyphen"/>ſunder, I ſay no <hi>man,</hi> no <hi>Devill,</hi> no <hi>Jeſuit.</hi> Amen.</p>
+            <p>But 2ly, If this be matter of praiſe that we may <hi>praiſe;</hi> how much more the <hi>cauſe</hi> of this days <hi>praiſe,</hi> to witthe grand, &amp; ſtupen<g ref="char:EOLhyphen"/>dious deliverance of this Common-wealth, comprehending three Nations; and all the Churches, and the thouſands of the peo<g ref="char:EOLhyphen"/>ple of God in thoſe Nations. And there<g ref="char:EOLhyphen"/>fore it is (though I ſay no more) our <hi>juſtice</hi> to praiſe God; <hi>Suum cuique tribue<g ref="char:EOLhyphen"/>re,</hi> to give God his due; whoſe <hi>juſtice</hi> to the weeds, was <hi>mercie</hi> to the Corn, ac<g ref="char:EOLhyphen"/>cording to the 5. and 10. verſes after my Text in that Pſalm, preſſing my Text, <hi>The Lord loveth righteouſnes, and judge<g ref="char:EOLhyphen"/>ment; the Lord bringeth the counſell of the Heathen to nought; he maketh the devices of the people of none effect.</hi> And of this our <hi>juſtice,</hi> in prayſing God, there is a kind of <hi>Comlineſſe</hi> too. For if of every morall <hi>acquired</hi> virtue there is a tranſcendent beauty that would raviſh the ſonns of men if they could viſibly behold it:<note place="margin">So Cicero hath it out of Plato.</note> How much more of <hi>infuſed</hi> grace (called the
+<pb n="39" facs="tcp:119160:22"/>
+               <hi>divine nature</hi>). So that our duty is like the cauſe, both being <hi>glorious.</hi>
+               <note place="margin">2 Pet. 1.4.</note> For our deliverance is like the cloud that was the convoy of <hi>Iſrael</hi> in all their deliverances from <hi>Egypt</hi> to <hi>Canaan, viz. Darkneſs to our enemies, but glorious light to us,</hi> if wee conſider theſe four Qualifications of it.</p>
+            <p n="1">1 The <hi>matter</hi> from which we are deli<g ref="char:EOLhyphen"/>vered. Not from proclaimed <hi>warning War,</hi> like generous enemies; but rather from a hidden helliſh plot (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> quaſi <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> look<g ref="char:EOLhyphen"/>ing like an intended <hi>Maſſacre.</hi> Not from <hi>forreigners,</hi> ſtrangers abroad, but from <hi>them at home,</hi> of our own bowells. Not from <hi>dropps,</hi> but a deluge of blood, for all the godly of the Land to drink from the hand of the wicked <hi>Cavalliers</hi> (for on them <hi>I</hi> look as the principall, the reſt but as de<g ref="char:EOLhyphen"/>coyed by them) I ſay to be drunk from the hands of the Cavalliers, intending yea, and endevouring jointly, and uni<g ref="char:EOLhyphen"/>verſally to riſe at once, in all parts of this Nation at leaſt. He that denies this, tells me there is no Sun in the Firmament; and would perſwade us not to believe what ſome, of us have ſeen with our eye, and heard with our ears from the
+<pb n="40" facs="tcp:119160:23"/>mouthes of the enemies themſelves.</p>
+            <p n="2">2. The <hi>Moment</hi> of our deliverancee It was like that of <hi>Iſaac,</hi>
+               <note place="margin">Ger. 22.10.</note> when the blow was fetching. Like that of <hi>Moſes,</hi> when the generality of the people were about in<g ref="char:EOLhyphen"/>ſtantly to ſtone him, then, very then, in that inſtant,<note place="margin">Namb. 14.10.</note> the glory of the Lord came down upon the Tabernacle, and daunted them from their diſmall deſign? Or like the deliverance of <hi>Iſrael</hi> at the Red-ſea. If the Sea bee not divided that very night (a great work to bee done in a night) then good night to the Iſraelites lives,<note place="margin">Ex<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 14.21.</note> or liberties, or both. It was an a<g ref="char:EOLhyphen"/>ſtoniſhment to us to think that whiles we were all,<note place="margin">Gen. 22.14.</note> moſt intentively gazing, and admiring at the <hi>ſetting</hi> of a <hi>ſingle perſon,</hi> and glorying in the <hi>riſing</hi> and aſcending up of <hi>this Parliament</hi> (O happy day) the enemy in all parts are ready to ſwarm and to <hi>come about us like Bees.</hi> But (as the Pſalmiſt ſaith, ſo ſay we) <hi>in the name of the Lord they were deſtroyed,</hi> according to that divine Hebrew proverb of old, <hi>Behas yehofa yeraeh, That is in the Mount of the Lord it ſhall be ſeen. For ſo in the</hi> 18, <hi>and</hi> 19. verſes after my Text preſſing our
+<pb n="41" facs="tcp:119160:23"/>duty in it, <hi>Behold the eye of the Lord is on them that fear him, upon them that hope in his mercie, to deliver their ſoul from death. Deus videt, &amp; ridet</hi> God ſaw and laugh<g ref="char:EOLhyphen"/>ed the enemie to ſcorn.</p>
+            <p n="3">3. The <hi>manner</hi> of our deliverance, <hi>viz.</hi> a moſt bloody deſign, prevented almoſt by a bloodleſs victorie. Of which we are glad, as well as our enemies. A rare Sym<g ref="char:EOLhyphen"/>pathy between two adverſarie Ar<g ref="char:EOLhyphen"/>mies</p>
+            <p n="4">4. The <hi>Means</hi> of our deliverance, <hi>viz. Digitus Dei,</hi> The <hi>finger of God.</hi> Wee ac<g ref="char:EOLhyphen"/>knowledge the diligence, forwardneſs and reſolution of the Souldierie. And that was of God too. 'Tis <hi>God and his Cauſe</hi> that carries it. We have it demonſtrated by the contrarie too, <hi>viz.</hi> the ill ſucceſs when theſe have been left (though I have not the place). But in this our de<g ref="char:EOLhyphen"/>liverance behold further in ſpecial, <hi>Digi<g ref="char:EOLhyphen"/>tus Dei, the finger of God,</hi> the movings of God upon the heart. For though the enemie were greatly prepared, and mighty in ſtrength, and that in a chiefe ſtrength of an Army, <hi>viz.</hi> in Horſe, eſpe<g ref="char:EOLhyphen"/>cially for ſuch a deſign (ſuddainly to
+<pb n="42" facs="tcp:119160:24"/>over run and ſubdue a whole Nation) in<g ref="char:EOLhyphen"/>flamed alſo (as they pretended) with great <hi>zeal,</hi> and moſt <hi>ſpecious pretences,</hi> yet in the day of Battle they had no heart, nor courage ſutable to ſuch a day. God had ſent the <hi>Hornet of fear</hi> and daunted them. So that our Armie <hi>Venit, vidit, &amp; vicit.</hi> God the great Maſter and Commander of hearts (for all their mighty power) had taken away their heart. So that to this, we may apply that in the 16 and 17 verſes after my Text (preſſing the practi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of it upon us) <hi>There is no King ſaved by the</hi> MULTITUDE <hi>of an Host: a mighty man is not delivered by much ſtrength. An</hi> HORSE <hi>is a vain thing for ſafety; neither ſhal he deliver any by his great ſtrength.</hi> Surely no, when God takes away the heart of the <hi>Rider,</hi> yea and of his <hi>Infantry</hi> too. And this is a main thing that I de<g ref="char:EOLhyphen"/>ſire we may mainly mind; That the grand things that God hath done for us in this laſt and great revolution, hath been by <hi>heart-work;</hi> wherein none can make any ſhew of claim to ſhare in his honour. God wrought upon the hearts of the Armie a <hi>jealouſie of a deſign to ſet over us an anti-intereſted ſingle perſon,</hi> contrary to our
+<pb n="43" facs="tcp:119160:24"/>intereſt and Common-Wealth; which made them ſo effectually importune the diſſolution of the laſt convention God again wrought upon the hearts, of the ſame Armie, <hi>a ſenſible ſatisfaction that their intereſt was involved in the intereſt of this Parlia<g ref="char:EOLhyphen"/>ment;</hi> and that both their ſafeties, and of the whole Common-wealth, were inſeparably twiſted together, and like <hi>Hypocrates Twinns,</hi> live and die together; whereupon, the former Conventions being dethroned, the Souldiery importuned this Parliament to return to their duties. So that in theſe, God wrought in our Army <hi>a kind of change of their hearts;</hi> whereby of ill maſters, they became excellent ſervants to this Common-wealth, and came off Gallantly. Again God works for us with heart work upon, and in our enemies. 1. God took away the wit, or courage, or both of many parties in many Counties that they were not up in Armes conſiderably, at the nick of time. 2. That from that moſt conſiderabe body in the North-Eaſt, God took away (as we ſaid) their courage, So that in theſe things <hi>God took away the heart.</hi>
+            </p>
+            <p>And thus (to cloſe our Sermon) ſhould wee well weigh mercies (<hi>praiſing</hi> comes of <hi>prizing</hi>) we ſhould weigh them like gold, every cinder and Scintil, to a grain. And meaſure them all, ſo exactly, conſidering them as a Ball of Silk; not what is the Globe or bulk of it only, but to what a length it will run, and what it wil make in the improvment. Verily we ſhould diſcern the length of this days <hi>mercies,</hi> by the length of our <hi>miſeries</hi> if the plot had taken: And thence conclude; that our pre<g ref="char:EOLhyphen"/>ſent deliverance (if we have the grace to keep the
+<pb n="44" facs="tcp:119160:25"/>Talent God hath given us) extendeth from this generation to the next, and ſo the next, &amp;c. till Chriſt come. Now if for <hi>future</hi> mercies the Apo<g ref="char:EOLhyphen"/>ſtle puts the Queſtion, 2 <hi>Pet.</hi> 3.11. <hi>Seeing we look for new Heavens and a new earth, wherein dwells righteouſneſe (the old being diſſolved by fire) what manner of perſons ought we to be in all holy conver<g ref="char:EOLhyphen"/>ſation and godlineſs?</hi> How thankfull and holy, ſhould we be for <hi>preſent mercies;</hi> ſo as to be as it were diſtreſſed (with the Pſalmiſt, <hi>Pſal.</hi> 116.12.) what and how to render to God praiſe and obedi<g ref="char:EOLhyphen"/>ence, <hi>good</hi> enough, and <hi>great</hi> enough for all the greatneſſe of his goodneſs towards us. For ſurely the Lord doth overcome us, yea overcome our ve<g ref="char:EOLhyphen"/>ry thoughts with the hughneſs and highneſs of his numerous mercies, <hi>Eph.</hi> 3.20. <hi>He doth for us above what we could ask or think.</hi> And his mercie (as <hi>Pſa.</hi> 36.5, 6.) <hi>is to the heavens; his faithfulneſs reach<g ref="char:EOLhyphen"/>eth to the clouds; his righteouſneſs is like the great mountains; and his judgements like a great deep.</hi> Therefore let the people praiſe and ſing, and let the heavens ring with <hi>Halel<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jah's,</hi> praiſe, honour, and glory, be given to him that ſits on the Throne, and to the Lamb for evermore, <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="delivery_date">
+            <p>
+               <hi>Delivered to the Printer,</hi> 
+               <date>Octob. 11. 1659.</date>
+            </p>
+         </div>
+         <div type="errata">
+            <p>
+               <hi>ERRATA,</hi> p. 5. margin at line 20. read <hi>Plin.</hi> p. 6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> p. 8. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> p. 13. line 19. <hi>Till,</hi> p. 24. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> p. 29. l. <hi>ingratum,</hi> p. 37. margin <hi>vulgi.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
